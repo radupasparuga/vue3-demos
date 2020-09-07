@@ -1,12 +1,12 @@
 <template>
 	<div>
-		<h1 class="header">Vue 3 docs</h1>
+		<h1 class="header">Router thoughts</h1>
 	</div>
 </template>
 
 <script>
 const Home = {
-	name: 'Home',
+	name: 'Router',
 };
 export default Home;
 </script>
