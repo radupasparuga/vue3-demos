@@ -1,4 +1,5 @@
-# validation-demo
+# Vue3 Demos
+Demos for various vue 3 concepts
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
